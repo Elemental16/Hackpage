@@ -1,0 +1,21 @@
+a{
+	display: block;
+	width: 200px;
+	height:50px;
+	background-image: url(../buttons.png);
+	background-repeat:no-repeat;
+	background-position: top left;
+	text-align:center;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	line-height:50px;
+}
+h1{
+	text-align: center;
+}
+p a:hover{
+	text-align: right:0 bottom:0;
+	color: orange;
+}
